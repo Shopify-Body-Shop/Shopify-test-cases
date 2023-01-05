@@ -2,7 +2,7 @@
 
 <br>
 
-### Basic test Cases to be considered
+### Basic test cases to be considered
 <br>
 
 
